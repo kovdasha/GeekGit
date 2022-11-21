@@ -58,3 +58,7 @@
 
     git checkout
 
+Чтобы переключиться на commit, на который указывает master (переместить HEAD на commit, на который указывает master), необъходимо использовать команду:
+
+    git checkout master
+    
