@@ -80,3 +80,4 @@
 
     git checkout <name>
 
+### Слияние
